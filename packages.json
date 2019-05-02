@@ -1,8 +1,0 @@
-{
-    "name": "rosewoodmarketing/drupal-project",
-    "version": "8.x",
-    "dist": {
-        "url": "https://github.com/drupal-composer/drupal-project.git",
-        "type":  "zip"
-    }
-}
